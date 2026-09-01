@@ -24,7 +24,7 @@ it, so you can inspect what you're about to run.
 
 This is **not** a ripper or a protection bypass:
 
-- It requires a **valid key** you already have (90% of password is: "DO NOT REMOVE OR CHANGE" :) ) . Without one it simply stops on
+- It requires a **valid key** you already have ) . Without one it simply stops on
   `LDR-DENIED` — the same as the official loader.
 - There is **no executor-fingerprint spoofing** and **no key cracking**.
 - It does **not** deobfuscate anything. Delivered payloads are typically
